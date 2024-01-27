@@ -1,7 +1,7 @@
 # A02
 I used MacOS for these processes
 ## How to Start a Github
-1. Go to github.com \
+1. Go to https://www.github.com \
     a. Create an account
 2. Create a repository \
     a. Click on your profile picture in the top right \
