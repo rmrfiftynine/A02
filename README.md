@@ -19,15 +19,16 @@ I used MacOS for these processes
     a. It will automatically find and select the **git** you installed in version control \
     b. Create a new Project and now you have a local **repository**
 ## Glossary
-* **Branch**
-* **Clone**
-* **Commit**
-* **Fetch**
-* **GIT**
-* **Github**
-* **Merge**
-* **Merge Conflict**
-* **Push**
-* **Pull**
-* **Remote**
-* **Repository**
+* **Branch** - A way to seperate development work within a repository.
+* **Clone** - A way to copy a repository to your local device.
+* **Commit** - Confirming a change to a repository.
+* **Fetch** - A way to get changes from a remote repository to your local repository without merging.
+* **GIT** - A local repository software.
+* **Github** - A website for remote repositories.
+* **Merge** - Combines (merges) the remote repository branches with your local repository.
+* **Merge Conflict** - A problem that occurs when you merge branches with competing commits.
+* **Push** - Updating the remote repository with new commits from the local repository.
+* **Pull** - A combination of **fetch** and **merge**, you grab new branches from the remote repository and merge them with your local repository.
+* **Remote** - On a server (for example a website) that is accessible to everyone.
+* **Repository** - A place where you can story files and its history of changes.
+
